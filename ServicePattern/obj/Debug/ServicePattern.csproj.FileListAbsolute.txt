@@ -1,0 +1,15 @@
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\hack.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\MySql.Data.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\hack.pdb
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\hack.dll.config
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\jarrar\source\repos\hack\ServicePattern\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\jarrar\source\repos\hack\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\jarrar\source\repos\hack\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+C:\Users\jarrar\source\repos\hack\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\jarrar\source\repos\hack\ServicePattern\obj\Debug\ServicePattern.pdb
